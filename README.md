@@ -1,2 +1,2 @@
 # selenium
-Selenium
+Page Object Model Framework
